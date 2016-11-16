@@ -1,5 +1,5 @@
     The features I have added to enhance this display are  
-when the user clicks the picture it toggles and says enjoy,
+when the user clicks the picture it toggles and the enjoy goes away,
 when the user hovers over the word ingredients and instructions the background becomes orange staying that way and then 
 after that if the user hovers over that text it is yellow only while hovering,
 also the text under instruction and ingredients toggles when the user clicks on it,
